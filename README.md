@@ -3,9 +3,11 @@
 Après plusieurs années dans le monde du vin, j’ai décidé de changer de vie et de suivre la formation développeur fullStack JavaScript chez O’Clock ! En 6 mois de formation, j’ai développé de nombreuses compétences techniques en back comme en front : HTML, CSS, JavaScript, NodeJs, Express, PostgreSQL, Sequelize ou encore React. Intéressé(e) ? C’est par ici ! :point_down:
 
 Je suis **en recherche d'emploi** ! N'hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
-N'ayez pas peur de mon progil atypique ! Mes expèriences professionnelles dans le monde du vin m'ont apporté beaucoup ! Je serai ravie d'en discuter avec vous. 😄 😉
+N'ayez pas peur de mon profil atypique ! Mes expèriences professionnelles dans le monde du vin m'ont apporté beaucoup ! Je serai ravie d'en discuter avec vous. 😄 😉
 
-#### Technologies : (en cours)
+#### Technologies : 
+
+NodeJS, Express, Sequelize, PostegreSQL, React, React Hook Form, React-Select, Sass, html, css, moteur de rendu ejs
 
 #### Mes projets  : 	:computer:
 
