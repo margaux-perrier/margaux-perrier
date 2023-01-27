@@ -22,7 +22,7 @@ En tant que lead dev Back, j'ai développé toute la partie back-end du site et 
 
 Pour en savoir plus, n'hésitez pas à jeter un coup d'oeil à cette vidéo : [Nom d'un vin ! ](https://www.linkedin.com/posts/margaux-perrier_cher-r%C3%A9seau-apr%C3%A8s-plusieurs-ann%C3%A9es-dans-ugcPost-7001468301771956224-8sVc?utm_source=share&utm_medium=member_desktop)
 
-##### Technologies utlisées : 
+##### Technologies utilisées : 
 Javascript, nodeJs, Express, PostgreSQL, Sequelize, React, Sass, Semantic ui. Maquettes réalisées avec Canva. 
 
 :computer: **Dev Together** 
