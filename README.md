@@ -26,7 +26,7 @@ Pour en savoir plus, n'hésitez pas à jeter un coup d'oeil à cette vidéo : [N
 Javascript, nodeJs, Express, PostgreSQL, Sequelize, React, Sass, Semantic ui. Maquettes réalisées avec Canva. 
 
 :computer: **Dev Together** 
-Dev Together est un projet personnel sur lequel je travaille actuellement. J'ai imaginé le projet de zéro : de la rédaction des users stories au développement, en passant par la création de la maquette ou encore par la modélisation de la base de données (Merise). 
+Dev Together est un projet personnel sur lequel je travaille actuellement. J'ai imaginé le projet de zéro : de la rédaction des users stories au développement des fonctionnalités, en passant par la création de la maquette, la rédaction du cahier des charges ou encore par la modélisation de la base de données (Merise). 
 
 
 Dev’Together est un site dont l’objectif est de mettre en relation des développeurs et de les amener à collaborer ensemble sur divers projets.
