@@ -61,7 +61,6 @@ série ? Faites le savoir ! Notez le, aimez le et laissez un commentaire. </br>
 MyCiné vous permet également de gérer une bibliothèque avec votre liste de favoris, votre
 liste de films et séries à voir ou à revoir ou votre liste de films/séries déjà vus.
 
-
 Ce projet avait pour objectif de monter en compétences sur Angular, RxJS, Ngrx, TypeScript ou encore les tests (Karma + Jasmine). <br/>
 <br/>
 ##### Technologies et principes utilisés :
