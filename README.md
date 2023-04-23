@@ -1,13 +1,21 @@
 #### Bienvenue sur mon profil GitHub ! 👋
 
-Après plusieurs années dans le monde du vin, j’ai décidé de changer de vie et de suivre la formation développeur fullStack JavaScript chez O’Clock ! En 6 mois de formation, j’ai développé de nombreuses compétences techniques en back comme en front : HTML, CSS, JavaScript, NodeJs, Express, PostgreSQL, Sequelize ou encore React. Intéressé(e) ? C’est par ici ! :point_down:
+Après plusieurs années dans le monde du vin, j’ai décidé de changer de vie et de suivre la formation développeur fullStack JavaScript chez O’Clock ! En 6 mois de formation, j’ai développé de nombreuses compétences techniques en back comme en front : HTML, CSS, JavaScript, NodeJs, Express, PostgreSQL, Sequelize ou encore React. J'ai par la suite obtenu mon titre professionnel développeur web et web mobile. <br/>
+Je me suis également formée sur d'autres technologies comme Angular, Ngrx, RxJs ou encore Git. 
+Intéressé(e) ? C’est par ici ! :point_down:
 
 Je suis **en recherche d'emploi** ! N'hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
 N'ayez pas peur de mon profil atypique ! Mes expèriences professionnelles dans le monde du vin m'ont apporté beaucoup ! Je serai ravie d'en discuter avec vous. 😄 😉
 
 #### Technologies : 
 
-NodeJS, Express, Sequelize, PostegreSQL, React, React Hook Form, React-Select, Sass, html, css, moteur de rendu ejs
+Languages : JavaScript, TypeScript <br/>
+Framework et Librairies : React, Angular, RxJs, NgRx, Redux, Sass, Semantic UI, Material UI, moteur de rendu ejs <br/>
+Test : Karma + Jasmine <br/>
+Back-end : NodeJS, Express, Insomnia <br/>
+Base de données : Sequelize, PostegreSQL <br/>
+Environnement : VsCode, Git 
+
 
 #### Mes projets  : 	:computer:
 
@@ -38,5 +46,26 @@ Vous êtes développeurs ? Vous aimeriez travailler en équipe sur divers projet
 
 ##### Technologies et principes utilisés :
 Javascript, NodeJs, Express, PostgreSQL, Sequelize, React, React Hook Form, Contexte, Reducer, Sass, Semantic ui, JWT, Yup. Maquettes réalisées avec Figma. 
+
+
+**myMedia**
+
+MyCiné est une plateforme collaborative pour les passionnés ou curieux de cinéma. <br/> 
+Grâce à ce site, plus besoin de passer des heures et des heures à trouver un film ou une série ! <br/>
+Sur MyCiné vous pouvez rechercher un film ou une série via une barre de recherche et/ou selon
+son genre ou encore sa durée. </br>
+<br/>
+Vous ne savez pas quoi choisir ? Faîtes confiance à la communauté ! Faîtes vous une idée
+grâce aux notes et/ou aux commentaires attribués. Vous avez vu et adoré un film ou une
+série ? Faites le savoir ! Notez le, aimez le et laissez un commentaire. </br>
+MyCiné vous permet également de gérer une bibliothèque avec votre liste de favoris, votre
+liste de films et séries à voir ou à revoir ou votre liste de films/séries déjà vus.
+
+
+Ce projet avait pour objectif de monter en compétences sur Angular, RxJS, Ngrx, TypeScript ou encore les tests (Karma + Jasmine). <br/>
+<br/>
+##### Technologies et principes utilisés :
+TypeScript, Angular, NgRx, RxJS, PrimeNg (carousel), Karma + Jasmine (tests) 
+
 
 Je suis **en recherche d'emploi** ! N'hésitez pas à consulter [mon profil LinkedIn ](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
