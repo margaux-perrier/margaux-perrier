@@ -47,8 +47,10 @@ Vous êtes développeurs ? Vous aimeriez travailler en équipe sur divers projet
 ##### Technologies et principes utilisés :
 Javascript, NodeJs, Express, PostgreSQL, Sequelize, React, React Hook Form, Contexte, Reducer, Sass, Semantic ui, JWT, Yup. Maquettes réalisées avec Figma. 
 
+##### VIDEO : 
+[Dev'Together](https://www.canva.com/design/DAFhT-DVwc8/SZFQFNZVdZ5zzXkq6hvzBg/watch?utm_content=DAFhT-DVwc8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-**myMedia**
+**myCiné**
 
 MyCiné est une plateforme collaborative pour les passionnés ou curieux de cinéma. <br/> 
 Grâce à ce site, plus besoin de passer des heures et des heures à trouver un film ou une série ! <br/>
@@ -66,5 +68,7 @@ Ce projet avait pour objectif de monter en compétences sur Angular, RxJS, Ngrx,
 ##### Technologies et principes utilisés :
 TypeScript, Angular, NgRx, RxJS, PrimeNg (carousel), Karma + Jasmine (tests) 
 
+##### VIDEO : 
+[MyCiné](https://www.canva.com/design/DAFhTxeje6A/g_zd7tOQ4puKmy48zj_cCw/watch?utm_content=DAFhTxeje6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 Je suis **en recherche d'emploi** ! N'hésitez pas à consulter [mon profil LinkedIn ](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
