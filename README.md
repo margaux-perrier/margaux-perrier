@@ -4,38 +4,25 @@ Après plusieurs années dans le monde du vin, j’ai décidé de changer de vie
 Je me suis également formée sur d'autres technologies comme Angular, Ngrx, RxJs ou encore Git. 
 Intéressé(e) ? C’est par ici ! :point_down:
 
-Je suis **en recherche d'emploi** ! N'hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
-N'ayez pas peur de mon profil atypique ! Mes expèriences professionnelles dans le monde du vin m'ont apporté beaucoup ! Je serai ravie d'en discuter avec vous. 😄 😉
+N'hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
 
 #### Technologies : 
 
 Languages : JavaScript, TypeScript <br/>
-Framework et Librairies : React, Angular, RxJs, NgRx, Redux, Sass, Semantic UI, Material UI, moteur de rendu ejs <br/>
-Test : Karma + Jasmine <br/>
-Back-end : NodeJS, Express, Insomnia <br/>
-Base de données : Sequelize, PostegreSQL <br/>
-Environnement : VsCode, Git 
+Framework et Librairies : React, Next.js, Redux, React Hook Form, Angular, Material UI <br/>
+Test : React Testing Library, Jest <br/>
+Back-end : NodeJS, Express, Nest.js <br/>
+Base de données : PostegreSQL, MySQL, Sequelize, TypeORM <br/>
+Environnement : VsCode, Git
+Design : Figma, Canva
 
 
-#### Mes projets  : 	:computer:
+#### Mes projets :
 
 Quoi de mieux que la pratique pour consolider ses connaissances et compétences ? 
 
-:wine_glass: **Nom d’un vin !**
-Lors de ma formation, j'ai eu la chance de pouvoir proposer un projet qui me tient à coeur : Nom d'un vin ! Un site de vente en ligne de vins. 
-L'idée est de faciliter l’expérience d’achat d’un utilisateur. Comment ? En lui permettant de rechercher et d’acheter un vin en fonction de ses goûts, d’une occasion ou encore de son budget. 
-Pendant 1 mois, mon équipe et moi avons travaillé sur ce projet, de la réalisation du cahier des charges au développement des premières fonctionnalités du minimum viable product. 
-
-En tant que lead dev Back, j'ai développé toute la partie back-end du site et ai sécuristé l'API (JWT, CORS, sanitizer). 
-
-Pour en savoir plus, n'hésitez pas à jeter un coup d'oeil à cette vidéo : [Nom d'un vin ! ](https://www.linkedin.com/posts/margaux-perrier_cher-r%C3%A9seau-apr%C3%A8s-plusieurs-ann%C3%A9es-dans-ugcPost-7001468301771956224-8sVc?utm_source=share&utm_medium=member_desktop)
-
-##### Technologies utilisées : 
-Javascript, nodeJs, Express, PostgreSQL, Sequelize, React, Sass, Semantic ui. Maquettes réalisées avec Canva. 
-
 :computer: **Dev Together** 
 Dev Together est un projet personnel sur lequel je travaille actuellement. J'ai imaginé le projet de zéro : de la rédaction des users stories au développement des fonctionnalités, en passant par la création de la maquette, la rédaction du cahier des charges ou encore par la modélisation de la base de données (Merise). 
-
 
 Dev’Together est un site dont l’objectif est de mettre en relation des développeurs et de les amener à collaborer ensemble sur divers projets.
 
@@ -47,8 +34,7 @@ Vous êtes développeurs ? Vous aimeriez travailler en équipe sur divers projet
 ##### Technologies et principes utilisés :
 Javascript, NodeJs, Express, PostgreSQL, Sequelize, React, React Hook Form, Contexte, Reducer, Sass, Semantic ui, JWT, Yup. Maquettes réalisées avec Figma. 
 
-##### VIDEO : 
-[Dev'Together](https://www.canva.com/design/DAFhT-DVwc8/SZFQFNZVdZ5zzXkq6hvzBg/watch?utm_content=DAFhT-DVwc8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+##### VIDEO : [Dev'Together](https://www.canva.com/design/DAFhT-DVwc8/SZFQFNZVdZ5zzXkq6hvzBg/watch?utm_content=DAFhT-DVwc8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 **myCiné**
 
@@ -64,11 +50,21 @@ MyCiné vous permet également de gérer une bibliothèque avec votre liste de f
 liste de films et séries à voir ou à revoir ou votre liste de films/séries déjà vus.
 
 Ce projet avait pour objectif de monter en compétences sur Angular, RxJS, Ngrx, TypeScript ou encore les tests (Karma + Jasmine). <br/>
-<br/>
+
 ##### Technologies et principes utilisés :
 TypeScript, Angular, NgRx, RxJS, PrimeNg (carousel), Karma + Jasmine (tests) 
 
-##### VIDEO : 
-[MyCiné](https://www.canva.com/design/DAFhTxeje6A/g_zd7tOQ4puKmy48zj_cCw/watch?utm_content=DAFhTxeje6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+##### VIDEO : [MyCiné](https://www.canva.com/design/DAFhTxeje6A/g_zd7tOQ4puKmy48zj_cCw/watch?utm_content=DAFhTxeje6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-Je suis **en recherche d'emploi** ! N'hésitez pas à consulter [mon profil LinkedIn ](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
+
+:wine_glass: **Nom d’un vin !**
+Lors de ma formation, j'ai eu la chance de pouvoir proposer un projet qui me tient à coeur : Nom d'un vin ! Un site de vente en ligne de vins. 
+L'idée est de faciliter l’expérience d’achat d’un utilisateur. Comment ? En lui permettant de rechercher et d’acheter un vin en fonction de ses goûts, d’une occasion ou encore de son budget. 
+Pendant 1 mois, mon équipe et moi avons travaillé sur ce projet, de la réalisation du cahier des charges au développement des premières fonctionnalités du minimum viable product. 
+
+En tant que lead dev Back, j'ai développé toute la partie back-end du site et ai sécuristé l'API (JWT, CORS, sanitizer). 
+
+Pour en savoir plus, n'hésitez pas à jeter un coup d'oeil à cette vidéo : [Nom d'un vin ! ](https://www.linkedin.com/posts/margaux-perrier_cher-r%C3%A9seau-apr%C3%A8s-plusieurs-ann%C3%A9es-dans-ugcPost-7001468301771956224-8sVc?utm_source=share&utm_medium=member_desktop)
+
+##### Technologies utilisées : 
+Javascript, nodeJs, Express, PostgreSQL, Sequelize, React, Sass, Semantic ui. Maquettes réalisées avec Canva. 
