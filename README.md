@@ -9,7 +9,7 @@ N'hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/ma
 #### Technologies : 
 
 Languages : JavaScript, TypeScript <br/>
-Framework et Librairies : React, Next.js, Redux, React Hook Form, Angular, Material UI <br/>
+Framework et Librairies : React, Next.js, Redux, React Hook Form, swr, Material UI, Framer motion <br/>
 Test : React Testing Library, Jest <br/>
 Back-end : NodeJS, Express, Nest.js <br/>
 Base de données : PostegreSQL, MySQL, Sequelize, TypeORM <br/>
@@ -18,8 +18,6 @@ Design : Figma, Canva
 
 
 #### Mes projets :
-
-Quoi de mieux que la pratique pour consolider ses connaissances et compétences ? 
 
 :computer: **Dev Together** 
 Dev Together est un projet personnel sur lequel je travaille actuellement. J'ai imaginé le projet de zéro : de la rédaction des users stories au développement des fonctionnalités, en passant par la création de la maquette, la rédaction du cahier des charges ou encore par la modélisation de la base de données (Merise). 
