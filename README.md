@@ -19,7 +19,12 @@ Design : Figma, Canva
 
 #### Mes projets :
 
+Voici un aperçu de mes projets. Ce
+
 :computer: **Dev Together** 
+
+V2 en cours de développement
+
 Dev Together est un projet personnel sur lequel je travaille actuellement. J'ai imaginé le projet de zéro : de la rédaction des users stories au développement des fonctionnalités, en passant par la création de la maquette, la rédaction du cahier des charges ou encore par la modélisation de la base de données (Merise). 
 
 Dev’Together est un site dont l’objectif est de mettre en relation des développeurs et de les amener à collaborer ensemble sur divers projets.
