@@ -1,23 +1,24 @@
-#### Bienvenue sur mon profil GitHub ! 👋
+### Bienvenue sur mon profil GitHub ! 👋
 
-Après plusieurs années dans le monde du vin, j’ai décidé de changer de vie et de suivre la formation développeur fullStack JavaScript chez O’Clock ! En 6 mois de formation, j’ai développé de nombreuses compétences techniques en back comme en front : HTML, CSS, JavaScript, NodeJs, Express, PostgreSQL, Sequelize ou encore React. J'ai par la suite obtenu mon titre professionnel développeur web et web mobile. <br/>
-Je me suis également formée sur d'autres technologies comme Angular, Ngrx, RxJs ou encore Git. 
-Intéressé(e) ? C’est par ici ! :point_down:
+Développeuse web et mobile passionnée, je suis toujours à la recherche de nouveaux défis techniques et de projets inspirants ! 🚀💻
 
-N'hésitez pas à consulter [mon profil LinkedIn](https://www.linkedin.com/in/margaux-perrier/) et à **me contacter** :smile: .
+Cela fait près de 3 ans (3 ans ?! 🙀) que j’évolue dans cet univers passionnant. 3 ans que je m’épanouis chaque jour. 3 ans que ma curiosité et ma soif d’apprendre m’incitent à me former en continu pour aller toujours plus loin 🚀
 
-#### Technologies : 
+Mon objectif ? Créer des solutions impactantes, bâtir des produits innovants et, surtout, prendre un maximum de plaisir tout en continuant à me perfectionner chaque jour.
 
-Languages : JavaScript, TypeScript <br/>
-Framework et Librairies : React, Next.js, Redux, React Hook Form, swr, Material UI, Framer motion <br/>
-Test : React Testing Library, Jest <br/>
-Back-end : NodeJS, Express, Nest.js <br/>
-Base de données : PostegreSQL, MySQL, Sequelize, TypeORM <br/>
-Environnement : VsCode, Git
-Design : Figma, Canva
+📢 Actuellement à la recherche de nouveaux défis !
+Développeuse fullStack ou front-en en CDI sur Nice et ses alentours ou en remote. N'hésitez pas à me contacter pour discuter de vos projets ou de futures opportunités.
 
+ ### Technologies  🛠️ : 
+- Langages : JavaScript, TypeScript
+- Back-end : Node.js, Express, Nest.js
+- Base de données : PostgreSQL, MySQL, Sequelize, TypeORM, ElasticSearch, Redis
+- Frontend : React, Next.js, Material UI, React Hook Form, Framer Motion, Figma
+- Mobile: React native
+- Tests : Jest, React Testing Library, Cypress
+- Autres : Docker, Git, Jira
 
-#### Mes projets :
+### Mes projets :
 
 Voici un aperçu de mes projets. Ce
 
@@ -35,11 +36,12 @@ Vous êtes au bon endroit ! Chez Dev’ together, de nombreux développeurs sont
 Vous êtes développeurs ? Vous aimeriez travailler en équipe sur divers projets ? Quels que soient votre niveau et vos spécialités, nous sommes sûrs que vous trouverez le projet qui vous convient ! Alors n’attendez-plus et positionner vous sur les projets de vos choix. 
 
 ##### Technologies et principes utilisés :
-Javascript, NodeJs, Express, PostgreSQL, Sequelize, React, React Hook Form, Contexte, Reducer, Sass, Semantic ui, JWT, Yup. Maquettes réalisées avec Figma. 
+- Back-end : Nest.Js - TypeORM - PostgreSQL
+- Front-end : Next.js - scss module - Sass
+- Tests : Jest - react testing library - cypress
 
-##### VIDEO : [Dev'Together](https://www.canva.com/design/DAFhT-DVwc8/SZFQFNZVdZ5zzXkq6hvzBg/watch?utm_content=DAFhT-DVwc8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-**myCiné**
+-----------------------------------------
+:computer: **myCiné**
 
 MyCiné est une plateforme collaborative pour les passionnés ou curieux de cinéma. <br/> 
 Grâce à ce site, plus besoin de passer des heures et des heures à trouver un film ou une série ! <br/>
@@ -59,6 +61,7 @@ TypeScript, Angular, NgRx, RxJS, PrimeNg (carousel), Karma + Jasmine (tests)
 
 ##### VIDEO : [MyCiné](https://www.canva.com/design/DAFhTxeje6A/g_zd7tOQ4puKmy48zj_cCw/watch?utm_content=DAFhTxeje6A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+---------------------------------------------
 
 :wine_glass: **Nom d’un vin !**
 Lors de ma formation, j'ai eu la chance de pouvoir proposer un projet qui me tient à coeur : Nom d'un vin ! Un site de vente en ligne de vins. 
